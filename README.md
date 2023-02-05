@@ -1,6 +1,6 @@
 # ThinkpadSettings
 
-Just some settings for my Thinkpad running Pop!_OS.
+Just some settings for my Thinkpad running Linux Mint.
 
 bashrc:
 - rename as .bashrc
